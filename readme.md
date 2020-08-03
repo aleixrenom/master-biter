@@ -7,6 +7,7 @@ The Install guide connects your Glitch app to a Discord app. It also teaches som
 
 It uses
 
+- Developers: the hard-working people that makes this possible
 - Botkit: a handy bot building framework
 - Discord.js: a node module for connecting to the Discord API
 - Botkit Discord: A connector that allows you to use Bokit and Discord.js
