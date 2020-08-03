@@ -1,9 +1,9 @@
 module.exports = function(controller) {
 
-controller.hears("!ping", (bot, message) => {
+controller.hears("!ping", (bot) => {
 
     response = "pong!";
-    bot.reply(message, response);
+    bot.reply(reply);
 
 });
 };
